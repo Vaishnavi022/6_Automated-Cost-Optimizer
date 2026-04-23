@@ -124,7 +124,7 @@ def get_cpu_utilization(instance_id):
 
 The EC2 instance is automatically stopped when CPU utilization is low.
 
-![Final Output](images/final-output.png)
+![Final Output](images/cloudwatch-logs-final-output.png)
 
 ---
 
